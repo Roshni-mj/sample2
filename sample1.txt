@@ -1,10 +1,9 @@
 hello
-<<<<<<< HEAD
+
 hwwd
 edjqew
 edgyeqt
-=======
 
 et1e
 we13r1
->>>>>>> feature
+
